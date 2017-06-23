@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it creates a new empty git with the untracked files.
+
+git init inside the directory
